@@ -15,6 +15,7 @@ Reaching larger audiences, shortening devtime, and less resources.
 ## Pitfalls
 Obviously this can vary based on:
 - Dependencies
+- Deprecations
 - Limitations of API
 - Missing newer nicer features
 - Incompatible syntax
