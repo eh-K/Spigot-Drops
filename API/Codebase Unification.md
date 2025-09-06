@@ -20,3 +20,6 @@ Obviously this can vary based on:
 - Missing newer nicer features
 - Incompatible syntax
 - Java incompatibilities
+
+One issue I found is porting down to 1.16 then going back up can cause issue. The fix:
+> Make sure your .iml file is the same as your module then remove any excess iml files.
